@@ -1,1 +1,10 @@
 
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.cyberia.radio.AppRadio",
+    "sha256_cert_fingerprints":
+    ["E5:68:16:31:29:A8:64:81:3B:D9:5B:79:D3:E7:0B:B0:2A:DE:A7:0A:E5:E5:DA:D6:BB:BF:F5:29:DE:52:17:98"]
+  }
+}]
